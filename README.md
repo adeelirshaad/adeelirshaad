@@ -1,6 +1,10 @@
-[![Adeel Irshaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeelirshaad&show_icons=true&theme=dark)](https://github.com/adeelirshaad)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adeelirshaad&theme=dark&layout=compact&langs_count=8)](https://github.com/adeelirshaad/github-readme-stats)
 
+
+<h1 align="center">Hi there, I'm Adeel 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Cloud+and+Azure+Specialist;AI+and+Automation+Enthusiast;Open+to+Collaborations" alt="Typing SVG" />
+</p>
 
 
 **Adeel Irshaad**
