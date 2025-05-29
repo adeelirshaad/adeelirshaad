@@ -1,3 +1,8 @@
+[![Adeel Irshaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeelirshaad&show_icons=true&theme=dark)](https://github.com/adeelirshaad)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adeelirshaad&theme=dark&layout=compact&langs_count=8)](https://github.com/adeelirshaad/github-readme-stats)
+
+
+
 **Adeel Irshaad**
 **Full Stack Developer ⚙️ | Azure Whisperer ☁️ | Code Crafter 🧩**
 **7+ Years of Turning Ideas into Scalable Software Magic**
